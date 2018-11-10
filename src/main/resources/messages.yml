@@ -1,0 +1,7 @@
+messages:
+  commands:
+    wrong-usage: "&cWrong usage! /benchant <player> <enchantment> <level>."
+    wrong-player: "&cPlayer is offline or does not exist!"
+    wrong-enchant: "&cThat is not a valid enchantment!"
+    empty-hand: "&cThe player is not holding any item!"
+    enchant-added: "&aEnchantment was added to the player with success!"

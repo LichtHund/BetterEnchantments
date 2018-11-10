@@ -1,0 +1,11 @@
+name: BetterEnchants
+version: ${project.version}
+main: me.mattmoreira.betterenchants.BetterEnchants
+
+commands:
+  benchant:
+    description: Enchants an item for a player.
+
+permissions:
+  betterenchants.benchant:
+    default: op
